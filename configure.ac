@@ -22,5 +22,6 @@ AC_PROG_RANLIB
 AC_CONFIG_FILES([Makefile
                  lib1/Makefile
                  lib2/Makefile
-                 src/Makefile])
+                 src/Makefile
+                 scripts/Makefile])
 AC_OUTPUT

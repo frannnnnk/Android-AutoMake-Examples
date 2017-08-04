@@ -2,6 +2,8 @@
 #include "hello.h"
 #include "add.h"
 
+#include <stdio.h>
+
 int main() 
 {
     print("hello, static library!!!!");
